@@ -4,5 +4,5 @@
 
 1. Используется New Input System.
 2. Вся логика построена на основе UnityEvent.
-3. Сохранения меток осуществленно с помощью JSON утилиты. Сведения об пинах хранятся в AppData\LocalLow\DefaultCompany\AlmaTestTask.
+3. Сохранения меток осуществлено с помощью JSON утилиты. Сведения о пинах хранятся в AppData\LocalLow\DefaultCompany\AlmaTestTask.
 4. Реализован паттерн "одиночка" (Singleton).
